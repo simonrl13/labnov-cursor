@@ -1,0 +1,11 @@
+{
+  "/api/sanity/publications/route": "app/api/sanity/publications/route.js",
+  "/api/sanity/news/route": "app/api/sanity/news/route.js",
+  "/api/sanity/visitas/route": "app/api/sanity/visitas/route.js",
+  "/api/instagram/route": "app/api/instagram/route.js",
+  "/membros/page": "app/membros/page.js",
+  "/sobre/page": "app/sobre/page.js",
+  "/publicacoes/page": "app/publicacoes/page.js",
+  "/contato/page": "app/contato/page.js",
+  "/page": "app/page.js"
+}
